@@ -1,0 +1,13 @@
+﻿working/
+working_frames/
+videos/
+data/
+data_*/
+external/
+reports/
+raw_backup/
+*.zip
+*.jpg
+*.jpeg
+*.png
+__pycache__/
