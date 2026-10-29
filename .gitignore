@@ -1,4 +1,4 @@
-﻿working/
+working/
 working_frames/
 videos/
 data/
@@ -10,4 +10,6 @@ raw_backup/
 *.jpg
 *.jpeg
 *.png
+*.task
+temp_*
 __pycache__/

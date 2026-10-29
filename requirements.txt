@@ -1,6 +1,10 @@
+streamlit
+streamlit-webrtc
+av
+mediapipe<0.11
 opencv-python<5
-imagehash
+opencv-contrib-python<5
 numpy
 pandas
 pillow
-streamlit
+imagehash
