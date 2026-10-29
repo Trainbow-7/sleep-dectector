@@ -1,5 +1,6 @@
-﻿opencv-python
+opencv-python<5
 imagehash
 numpy
 pandas
 pillow
+streamlit
